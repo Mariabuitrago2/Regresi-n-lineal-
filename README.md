@@ -1,6 +1,5 @@
 ---
-"Análisis y Predicción de Precios de Computadoras Portátiles Usando 
-Factores Técnicos y de Marca"
+# "Análisis y Predicción de Precios de Computadoras Portátiles Usando Factores Técnicos y de Marca"
 author: "Sara Villada, Maria Buitrago, Annie Arenilla"
 ![imagen](https://github.com/user-attachments/assets/526ed078-fcde-4fc6-b5bb-190af26f4773)
 
